@@ -10,3 +10,6 @@
 8) !cat notebook.* > data_zip.hz
 9) !tar -xf data_zip.hz
 10) %cd /content/W1A1/W1A1
+
+
+11) * Sometimes  /content/W1A1/tf/W1A1
